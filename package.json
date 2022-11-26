@@ -2,7 +2,7 @@
   "name": "node_shell_xray",
   "version": "1.0.0",
   "scripts": {
-    "start": "node node_shell.js"
+    "start": "node node_s.js"
   },
   "devDependencies": {
     "@architect/sandbox": "^5.3.4"
